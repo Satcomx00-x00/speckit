@@ -76,7 +76,7 @@ Write-Success "Directory structure created"
 # ── Find speckit source templates ─────────────────────────────────────────────
 $SpeckitSource = ""
 $candidates = @(
-    "$ScriptDir\..\  .specify",
+    "$ScriptDir\..\.specify",
     "$HOME\.speckit\.specify",
     "C:\ProgramData\speckit\.specify"
 )

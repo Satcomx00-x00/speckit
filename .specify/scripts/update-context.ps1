@@ -1,5 +1,5 @@
 # update-context.ps1 — Rebuild AI context for speckit
-# Usage: .\\.specify\scripts\update-context.ps1 [SpecsDir]
+# Usage: .\.specify\scripts\update-context.ps1 [SpecsDir]
 param(
     [string]$SpecsDir = "specs"
 )
